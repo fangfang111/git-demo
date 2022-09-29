@@ -5,5 +5,7 @@ public class Person {
         System.out.print("hi");
         System.out.print("hi main");
         System.out.println("11111");
+        System.out.println("11111");
+        System.out.println("11111");
     }
 }
