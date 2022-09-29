@@ -8,6 +8,6 @@ public class Hello {
         System.out.println("hello4");
         System.out.println("push test");
         System.out.println("pull test");
-        
+        System.out.println("gitee pull test");        
     }
 }
